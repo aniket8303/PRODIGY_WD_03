@@ -78,9 +78,10 @@ Right click → Open with browser
 
 ---
 
-## 📸 Screenshot
+## 🚀 Live Demo
 
-<img width="400" alt="Tic Tac Toe Game" src="https://via.placeholder.com/400x300.png?text=Tic+Tac+Toe+Game">
+Click here to play the game:  
+👉 https://aniket8303.github.io/PRODIGY_WD_03/
 
 ---
 
@@ -88,9 +89,7 @@ Right click → Open with browser
 
 **Aniket Parekar**
 
-GitHub: [https://github.com/aniket8303](https://github.com/aniket8303)
-
----
+## GitHub: https://github.com/aniket8303/PRODIGY_WD_03
 
 ## 📄 License
 
