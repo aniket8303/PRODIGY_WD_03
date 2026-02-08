@@ -52,7 +52,7 @@ tic-tac-toe/
 2. Open the project folder
 3. Double-click on `index.html`
 
-OR
+OR 
 
 Right click → Open with browser
 
